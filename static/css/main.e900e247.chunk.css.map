@@ -1,0 +1,1 @@
+{"version":3,"sources":["Counter.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,WAAY,CACZ,wBAA4B","file":"main.e900e247.chunk.css","sourcesContent":[".btn {\n  padding: 10px;\n  margin: 10px;\n  background-color: aquamarine;\n}\n"]}
